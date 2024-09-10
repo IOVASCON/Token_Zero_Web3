@@ -1,0 +1,27 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Hardhat artifacts
+artifacts/
+cache/
+
+# Environment variables
+.env
+
+# VSCode settings
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ethereum secret keys and wallet files (nunca compartilhar)
+*.key
+*.pem
+*.priv
+
